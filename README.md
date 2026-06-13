@@ -1,42 +1,35 @@
-# 👋 Hi there, I'm a Developer Who Automates the Boring Stuff
+# Hi there, I'm V3x! 👋
 
-I am an RPA and Low-Code/No-Code Developer specialized in building digital workforces, streamlining enterprise workflows, and gluing systems together.
-Whether it's enterprise-grade automation or rapid-prototyping experimental ideas, I make software do the heavy lifting.
+## ⚡ Low-Code Developer & Professional Vibe Coder
 
----
+I build efficient automation and apps using Low-Code/No-Code platforms, but lately, my favorite stack is just a coffee mug and a prompt window. 
 
-### 🛠️ What I Do
-
-*   **RPA & Enterprise Automation:** Designing and deploying scalable, robust software robots using **UiPath**.
-*   **Low-Code / No-Code Ecosystems:** Building internal applications, rapid solutions, and automated workflows with **Power Apps** and **Power Automate**.
-*   **Vibe Coding:** Embracing the future of development by steering AI, prompting complex architectures, and maintaining high-velocity output through conversational engineering.
+> **Current Hyperfixation:** Vibe Coding. Prompting AI agents (Devin, Windsurf) to build full-stack architectures while I supervise, sip coffee, and enjoy the future of software development. ☕✨
 
 ---
 
-### ⚡ Tech Stack & Tools
+### 🛠️ Tech Stack & Tools
 
-*   **RPA:** UiPath (Studio, Orchestrator, Robots)
-*   **Microsoft Power Platform:** Power Apps, Power Automate
-*   **Languages & Scripts:** JavaScript, Python
-*   **Current Hyperfixation:** Prompting LLMs to build while I sip coffee ("Vibe Coding"). Having fun with Cursor and VSC + Copilot
-*   **Other:** REST API
+* **Automation & Enterprise:** UiPath | Power Automate
+* **App Development:** Power Apps
+* **AI & Next-Gen Dev:** Devin | Windsurf | LLM Prompt Engineering
 
 ---
 
-### 🏎️ About Me (Outside the Main Loop)
+### 🏎️ Beyond the Code (Interests)
 
-*   **F1 Enthusiast:** Just like my automated workflows, I appreciate hyper-optimization, split-second execution, and absolute reliability. (Though unlike my bots, F1 strategies occasionally crash spectacularly on Sunday).
-*   **Night City Citizen:** Deeply fascinated by the high-tech, low-life universe of *Cyberpunk 2077*. If I'm not writing automations, I'm probably modding a netrunner build or wandering around Kabuki.
-*   **Privacy Conscious:** Strong advocate for zero-knowledge security, self-hosted environments, and keeping data locked down tighter than Arasaka Tower. Even if I am not good at it.
+When I'm not orchestrating bots or prompting LLMs, you can find me:
 
----
-
-### 📈 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
+* 🥊 **In the Lab:** Perfecting combos in **Street Fighter 6**.
+* 🌐 **In Night City:** Exploring the neon streets of **Cyberpunk 2077**.
+* ⚔️ **Grinding:** Dodging and parrying in **Wuthering Waves**.
+* 🏁 **Chasing the Apex:** Watching **F1**, **WEC**, and **WRC** (if it has wheels and goes fast, I'm watching it).
 
 ---
 
-**Some of my work here is made with AI**
+### 📈 Let's Connect!
+
+* **LinkedIn:** [Your Link]
+* **Discord:** [Your Handle]
+
+*"Why write a line of code when you can prompt an AI to write a thousand while your coffee is still hot?"* 🚀
