@@ -26,10 +26,3 @@ When I'm not orchestrating bots or prompting LLMs, you can find me:
 * 🏁 **Chasing the Apex:** Watching **F1**, **WEC**, and **WRC** (if it has wheels and goes fast, I'm watching it).
 
 ---
-
-### 📈 Let's Connect!
-
-* **LinkedIn:** [Your Link]
-* **Discord:** [Your Handle]
-
-*"Why write a line of code when you can prompt an AI to write a thousand while your coffee is still hot?"* 🚀
